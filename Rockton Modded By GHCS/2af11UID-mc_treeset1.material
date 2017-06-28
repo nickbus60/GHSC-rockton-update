@@ -1,0 +1,206 @@
+
+material 2af11UID-mc_tree_set1/tree1
+{
+	transparency_casts_shadows on
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.6 0.6 0.6 1
+			diffuse 0.32 0.32 0.32 1
+			specular 0.0 0.0 0.0 1 10
+			emissive 0.32 0.32 0.32 1
+			alpha_rejection greater 128
+			cull_hardware none
+			cull_software none
+			texture_unit
+			{
+				texture_alias textureUnit_0
+				texture 2af11UID-mc_tree1.dds
+			}
+		}
+
+	}
+
+}
+
+material 2af11UID-mc_tree_set1/tree2
+{
+	transparency_casts_shadows on
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.6 0.6 0.6 1
+			diffuse 0.32 0.32 0.32 1
+			specular 0.0 0.0 0.0 1 10
+			emissive 0.32 0.32 0.32 1
+			alpha_rejection greater 128
+			cull_hardware none
+			cull_software none
+			texture_unit
+			{
+				texture_alias textureUnit_0
+				texture 2af11UID-mc_tree2.dds
+			}
+		}
+
+	}
+
+}
+
+material 2af11UID-mc_tree_set1/tree3
+{
+	transparency_casts_shadows on
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.6 0.6 0.6 1
+			diffuse 0.32 0.32 0.32 1
+			specular 0.0 0.0 0.0 1 10
+			emissive 0.32 0.32 0.32 1
+			alpha_rejection greater 128
+			cull_hardware none
+			cull_software none
+			texture_unit
+			{
+				texture_alias textureUnit_0
+				texture 2af11UID-mc_tree3.dds
+			}
+		}
+
+	}
+
+}
+
+material 2af11UID-mc_tree_set1/tree4
+{
+	transparency_casts_shadows on
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.6 0.6 0.6 1
+			diffuse 0.32 0.32 0.32 1
+			specular 0.0 0.0 0.0 1 10
+			emissive 0.32 0.32 0.32 1
+			alpha_rejection greater 128
+			cull_hardware none
+			cull_software none
+			texture_unit
+			{
+				texture_alias textureUnit_0
+				texture 2af11UID-mc_tree4.dds
+			}
+		}
+
+	}
+
+}
+
+material 2af11UID-mc_tree_set1/tree5
+{
+	transparency_casts_shadows on
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.6 0.6 0.6 1
+			diffuse 0.32 0.32 0.32 1
+			specular 0.0 0.0 0.0 1 10
+			emissive 0.32 0.32 0.32 1
+			alpha_rejection greater 128
+			cull_hardware none
+			cull_software none
+			texture_unit
+			{
+				texture_alias textureUnit_0
+				texture 2af11UID-mc_tree5.dds
+			}
+		}
+
+	}
+
+}
+material 2af11UID-mc_tree_set1/tree6
+{
+	transparency_casts_shadows on
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.6 0.6 0.6 1
+			diffuse 0.6 0.6 0.6 1
+			specular 0.0 0.0 0.0 1 10
+			emissive 0.62 0.62 0.62 1
+			alpha_rejection greater 128
+			cull_hardware none
+			cull_software none
+			texture_unit
+			{
+				texture_alias textureUnit_0
+				texture 2af11UID-mc_tree6.dds
+			}
+		}
+
+	}
+
+}
+
+material 2af11UID-mc_tree_set1/tree7
+{
+	transparency_casts_shadows on
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.6 0.6 0.6 1
+			diffuse 0.6 0.6 0.6 1
+			specular 0.0 0.0 0.0 1 10
+			emissive 0.62 0.62 0.62 1
+			alpha_rejection greater 128
+			cull_hardware none
+			cull_software none
+			texture_unit
+			{
+				texture_alias textureUnit_0
+				texture 2af11UID-mc_tree7.dds
+			}
+		}
+
+	}
+
+}
+material 2af11UID-mc_tree_set1/tree8
+{
+	transparency_casts_shadows on
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.6 0.6 0.6 1
+			diffuse 0.5 0.5 0.5 1
+			specular 0.0 0.0 0.0 1 10
+			emissive 0.62 0.62 0.62 1
+			alpha_rejection greater 128
+			cull_hardware none
+			cull_software none
+			texture_unit
+			{
+				texture_alias textureUnit_0
+				texture 2af11UID-mc_tree8.dds
+			}
+		}
+
+	}
+
+}
