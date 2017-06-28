@@ -1,0 +1,22 @@
+[General]
+Name = GHCS Rockton Updated FPS
+GeometryConfig = RTBM.otc
+Water = 1
+WaterLine = 6.5
+AmbientColor = 0.93, 0.86, 0.76
+StartPosition = 263.5, 26.7666683197, 563.5
+SandStormCubeMap = tracks/skyboxcol
+#CaelumConfigFile = RTBM.os
+Gravity = -9.81
+CategoryID = 129
+Version = 1
+GUID = aa84143c-d3ff-4d09-8d8a-acb04fadc5ae
+
+ 
+[Authors]
+terrain = Brickman
+Coverting = haselnut116601
+converting2 = Klink
+ 
+[Objects]
+GHSC - FPS.tobj=
